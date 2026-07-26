@@ -30,3 +30,5 @@ sudo apt update
 sudo apt install git -y
 apt install maven
 git --version
+
+cd /var/lib/jenkins/workspace/projecti\ part-1/target/

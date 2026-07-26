@@ -24,3 +24,9 @@ jenkins --version
 systemctl status jenkins
 systemctl stop jenkins
 systemctl start jenkins
+
+git --version
+sudo apt update
+sudo apt install git -y
+apt install maven
+git --version

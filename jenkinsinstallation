@@ -32,3 +32,5 @@ apt install maven
 git --version
 
 cd /var/lib/jenkins/workspace/projecti\ part-1/target/
+
+java -jar Shopping_Cart-0.0.1-SNAPSHOT.jar --httpPort= 3000
